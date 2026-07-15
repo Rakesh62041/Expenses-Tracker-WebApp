@@ -1,4 +1,5 @@
 # Expense Tracker Web Application
+Developed by Rakesh Sharma
 
 A Dockerized Spring Boot + MySQL Expense Tracker application.
 
